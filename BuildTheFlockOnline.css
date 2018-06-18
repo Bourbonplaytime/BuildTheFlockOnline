@@ -1,0 +1,23 @@
+.reigs1 {
+  float: left;
+  max-height: 200px;
+  max-width: 200px;
+  }
+
+  .reigs2 {
+    float: right;
+    max-height: 200px;
+    max-width: 200px;
+  }
+
+  .intro-text {
+    font-size: 1.2em;
+    color: red;
+    background-color: black;
+  }
+
+.link {
+  background-color: black;
+  font-size: 24px;
+  color:red;
+}
