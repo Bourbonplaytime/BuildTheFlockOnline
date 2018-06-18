@@ -5,15 +5,15 @@ h1 {
 img {
   max-height: 100px;
 }
- .row {
-   padding-top: 20px;
-   padding-bottom: 20px;
- }
 
- .bot-margin {
-   padding-bottom: 20px;
+.bot-margin {
+  padding-bottom: 20px;
  }
 
 .bg-img {
-  background-image: url("buildtheflock3.jpg")
+  background-image: url("buildtheflock1.jpg")
 }
+
+.explanation {
+   color: white;
+ }
