@@ -1,18 +1,18 @@
 .reigs1 {
   float: left;
-  max-height: 200px;
-  max-width: 200px;
+  max-height: auto;
+  max-width: 250px;
   }
 
-  .reigs2 {
-    float: right;
-    max-height: 200px;
-    max-width: 200px;
+.reigs2 {
+   float: right;
+   max-height:250px;
+   max height: 250px;
   }
 
-  .intro-text {
-    font-size: 1.2em;
-    color: red;
+.intro-text {
+    font-size: 1.5em;
+    color: white;
     background-color: black;
   }
 

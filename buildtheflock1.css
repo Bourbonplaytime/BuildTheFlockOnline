@@ -11,9 +11,15 @@ img {
  }
 
 .bg-img {
-  background-image: url("buildtheflock1.jpg")
+  background-image: url("buildtheflock2.jpg");
+  background-size: cover;
+  width: 100%;
 }
 
 .explanation {
    color: white;
+ }
+
+ .header {
+   width: 100%;
  }
