@@ -1,23 +1,113 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* image styling */
+
 .reigs1 {
   float: left;
-  max-height: auto;
-  max-width: 250px;
+  max-height: 215px;
+  max-width: 215px;
   }
 
 .reigs2 {
    float: right;
-   max-height:250px;
-   max height: 250px;
+   max-height: 215px;
+   max height: 215px;
   }
+
+.Lsup {
+    display: block;
+    margin: 0 auto;
+    width: 75%;
+  }
+
+.banner {
+    max-height: 200px;
+    width: 50%;
+  }
+
+/* text styling */
+
+.headings-bottom {
+    padding-bottom: 10px;
+  }
+
+.headings {
+  margin-bottom: 20px;
+}
 
 .intro-text {
     font-size: 1.5em;
-    color: white;
-    background-color: black;
+    color: black;
   }
 
-.link {
+.Adds {
   background-color: black;
   font-size: 24px;
   color:red;
+  flex:1;
+}
+
+/* footer styling */
+
+footer {
+  background-color: black;
+}
+
+.footer-text {
+  color: red;
+}
+
+/* header styling */
+
+header {
+  background-color: black;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.name a,
+.main-nav a {
+  text-align: center;
+  display: block;
+  padding: 10px 15px;
+  color: red;
+  text-transform: uppercase;
+}
+
+.name a:hover,
+.main-nav a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+@media (min-width: 600px) {
+  .name,
+  .main-nav {
+    display: flex;
+  }
+
+  .main-nav {
+    flex-direction: row;
+    align-items: center;
+  }
+}
+
+@media (min-width: 750px) {
+  .main-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
 }
