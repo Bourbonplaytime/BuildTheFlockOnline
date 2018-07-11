@@ -24,6 +24,12 @@ body {
     width: 75%;
   }
 
+  .Hendo {
+    display: block;
+    margin: 0 auto;
+    width: 75%;
+  }
+
 .banner {
     max-height: 200px;
     width: 50%;

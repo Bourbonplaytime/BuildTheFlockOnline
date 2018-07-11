@@ -1,2 +1,3 @@
 $('.js').hide().fadeIn(5000).delay(5000).slideUp(5000);
-$('.Lsup').hide().delay(15000).slideDown(10000).fadeOut(5000);
+$('.Lsup').delay(15000).fadeOut(15000);
+$('.Hendo').hide().delay(30000).fadeIn(7500).fadeOut(7500);
