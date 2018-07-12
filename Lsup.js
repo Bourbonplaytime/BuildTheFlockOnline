@@ -1,9 +1,3 @@
-alert('yo');
+const expText = document.getElementsByClassName('explanation');
 
-$('.enlarge').mouseOver(function) {
-  $(this).css("cursor", "pointer")
-  $(this).animate({
-    width: 20%,
-    height: 10%;
-  })
-};
+expText.addEventListener("mouseover", () => {expText.textContent = expText.textContent.toUpperCase });
