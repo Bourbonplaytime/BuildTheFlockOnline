@@ -22,12 +22,21 @@ body {
     display: block;
     margin: 0 auto;
     width: 75%;
+    height: 500px;
   }
 
   .Hendo {
     display: block;
     margin: 0 auto;
     width: 75%;
+    height: 500px;
+  }
+
+  .Green {
+    display: block;
+    margin: 0 auto;
+    width: 75%;
+    height: 500px;
   }
 
 .banner {
@@ -58,9 +67,8 @@ body {
 
 .Adds {
   background-color: black;
-  font-size: 24px;
-  color:red;
-  flex:1;
+  text-align: center;
+  padding: 10px 0;
 }
 
 /* footer styling */
