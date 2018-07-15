@@ -1,7 +1,7 @@
 function loop() {
-  $('.js').hide().fadeIn(5000).delay(5000).slideUp(5000);
-  $('.Lsup').delay(15000).fadeOut(15000).delay(29999).fadeIn(1);
-  $('.Hendo').hide().delay(30000).fadeIn(7500).fadeOut(7500);
-  $('.Green').hide().delay(45000).fadeIn(7500).fadeOut(7500);}
+  $('.js').hide().fadeIn(2500).delay(2500).slideUp(2500);
+  $('.Lsup').delay(7500).fadeOut(7500).delay(14999).fadeIn(1);
+  $('.Hendo').hide().delay(15000).fadeIn(3750).fadeOut(3750);
+  $('.Green').hide().delay(22500).fadeIn(3750).fadeOut(3749);}
 
   loop();
