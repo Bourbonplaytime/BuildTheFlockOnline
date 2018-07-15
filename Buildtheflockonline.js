@@ -5,15 +5,3 @@ function loop() {
   $('.Green').hide().delay(45000).fadeIn(7500).fadeOut(7500);}
 
   loop();
-
-/*const tipsButton = document.getElementsByClassName('tips');
-const tipsText = document.getElementsByClassName('tipsHere');
-
-tipsText.hide()
-
-function tips() {
-  tipsButton.addEventListener('click', function() {
-    document.
-
-  }
-}; */

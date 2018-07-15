@@ -1,3 +1,5 @@
-const expText = document.getElementsByClassName('explanation');
+const expText = document.querySelectorAll('.enlarge');
 
-expText[0].addEventListener("mouseover", () => {expText.textContent = expText.textContent.toUpperCase });
+expText.addEventListener('mouseover', () => {
+  expText.document.log('add now!');
+});
