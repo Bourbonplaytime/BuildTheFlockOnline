@@ -1,5 +1,6 @@
 const expText = document.querySelectorAll('.enlarge');
 
 expText.addEventListener('mouseover', () => {
-  expText.document.log('add now!');
+  document.querySelectorAll('.enlarge').style.height="150px";
+  document.querySelectorAll('.enlarge').style.width="150px";
 });
