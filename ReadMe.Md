@@ -4,4 +4,4 @@ Build the flock online is designed to be a network to bring U of L athletics fan
 
 There are quite a few custom pieces of CSS in this project that manipulate color, style, layout, etc.
 
-There are 2 main pieces of Javascript on the main page (buildtheflockonline.html.) The first of which manipulates several different images in a 30 second loop. The 2nd of which inserts html upon a button click.
+There are 2 main pieces of javascript on the main page (buildtheflockonline.html.) The first of which manipulates several different images in a 30 second loop. The 2nd of which inserts html upon a button click.
