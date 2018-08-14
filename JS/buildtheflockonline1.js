@@ -1,4 +1,4 @@
-const button = document.getElementsByTagName('button')[0];
+const button = document.getElementsByTagName('button')[1];
 const input = document.getElementById('tipsHere');
 
 button.addEventListener('click', () => {

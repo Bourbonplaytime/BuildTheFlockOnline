@@ -139,10 +139,6 @@ li a, {
     text-decoration: none;
 }
 
-.drowdown {
-  text-align: center;
-}
-
 .dropbtn {
   margin: 0 auto;
   background-color: black;
@@ -150,6 +146,7 @@ li a, {
   border-style: none;
   text-transform: uppercase;
   font-size: 1.5em;
+  color: white;
 }
 
 li a:hover, .dropdown:hover .dropbtn {
