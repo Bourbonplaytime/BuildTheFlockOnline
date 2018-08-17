@@ -49,12 +49,17 @@ body {
 
 .headings-bottom {
   padding-bottom: 10px;
+  text-transform: uppercase;
+  color: black;
   }
 
 .headings {
   margin-bottom: 20px;
   font-family: 'Holtwood One SC', serif;
   font-size: 3em;
+  padding: 0 1.5em;
+  max-height: 350px;
+  color: white;
 }
 
 #plain {
@@ -66,6 +71,7 @@ body {
     font-size: 1.5em;
     color: black;
     font-family: 'Sura', serif;
+    padding: 0 1.5em;
   }
 
 .Adds {
