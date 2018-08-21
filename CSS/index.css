@@ -45,6 +45,18 @@ body {
     margin-top: 20px;
   }
 
+.BTFlogo {
+    max-height: 180px;
+    width: 180px;
+    float: left;
+  }
+
+  .BTFlogo2 {
+    max-height: 180px;
+    width: 180px;
+    float: right;
+  }
+
 /* text styling */
 
 .headings-bottom {
@@ -58,7 +70,6 @@ body {
   font-family: 'Holtwood One SC', serif;
   font-size: 3em;
   padding: 0 1.5em;
-  max-height: 350px;
   color: white;
 }
 
@@ -68,7 +79,7 @@ body {
 }
 
 .intro-text {
-    font-size: 1.5em;
+    font-size: 1.3em;
     color: black;
     font-family: 'Sura', serif;
     padding: 0 1.5em;

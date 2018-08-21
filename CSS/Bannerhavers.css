@@ -42,6 +42,10 @@ h1 {
     margin-bottom: 20px;
   }
 
+.page-name {
+  font-family: 'Holtwood One SC', serif;
+}
+
 ul {
     margin: 0;
     padding: 0;
