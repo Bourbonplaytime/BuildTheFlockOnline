@@ -25,14 +25,14 @@ body {
     height: 500px;
   }
 
-  .Hendo {
+.Hendo {
     display: block;
     margin: 0 auto;
     width: 75%;
     height: 500px;
   }
 
-  .Green {
+.Green {
     display: block;
     margin: 0 auto;
     width: 75%;
@@ -51,10 +51,20 @@ body {
     float: left;
   }
 
-  .BTFlogo2 {
+.BTFlogo2 {
     max-height: 180px;
     width: 180px;
     float: right;
+  }
+
+.selfie {
+    max-height: 250px;
+    max-width: 150px;
+  }
+
+.snap {
+    max-height: 150px;
+    max-width: 150px;
   }
 
 /* text styling */
@@ -73,8 +83,12 @@ body {
   color: white;
 }
 
+.menu-item {
+  color: red;
+}
+
 #plain {
-  color:white;
+  color: white;
   text-align: center;
 }
 
@@ -91,9 +105,23 @@ body {
   padding: 10px 0;
 }
 
-#tipsHere {
+.profile {
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.firstflex {
+  margin-left: 10px;
+  justify-content: center;
+}
+
+li {
+  display: block;
   color: red;
-  font-size: 18px;
 }
 
 /* footer styling */
@@ -145,11 +173,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: white;
-}
-
-li {
-    float: left;
+    background-color: red;
 }
 
 li a, {
@@ -158,6 +182,10 @@ li a, {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+}
+
+.dropdown {
+  text-align: center;
 }
 
 .dropbtn {
@@ -180,7 +208,7 @@ li.dropdown {
 
 .dropdown-content {
     display: none;
-    position: absolute;
+    position: relative;
     background-color: white;
     min-width: 100px;
     z-index: 1;
@@ -194,10 +222,14 @@ li.dropdown {
     text-align: right ;
     font-size: 1.5em;
     margin: 0 auto;
-    min-width: 80px;
+    width: 225px;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover {
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
 
 .dropdown:hover .dropdown-content {
     display: block;
@@ -237,5 +269,9 @@ li.dropdown {
   .plain {
     text-align: left;
     margin-left: -10px;
+  }
+
+  .dropdown-content {
+    position: absolute;
   }
 }
