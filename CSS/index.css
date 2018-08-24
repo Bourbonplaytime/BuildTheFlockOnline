@@ -80,10 +80,21 @@ body {
   }
 
   .art {
-    width: 18%;
+    width: 30%;
     margin: 0 auto;
     height: 250px;
-    border: 10px 0;    
+    border: 10px 0;
+  }
+
+  .museumtwo {
+    display: flex;
+  }
+
+  .arttwo {
+    width: 45%;
+    margin: 0 auto;
+    height: 250px;
+    border: 10px 0;
   }
 
 /* text styling */
