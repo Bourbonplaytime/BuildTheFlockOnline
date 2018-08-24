@@ -75,6 +75,17 @@ body {
     max-width: 400px;
   }
 
+  .artmuseum {
+    display: flex;
+  }
+
+  .art {
+    width: 18%;
+    margin: 0 auto;
+    height: 250px;
+    border: 10px 0;    
+  }
+
 /* text styling */
 
 .headings-bottom {
