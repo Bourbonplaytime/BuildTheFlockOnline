@@ -123,10 +123,11 @@ body {
 }
 
 .intro-text {
-    font-size: 1.3em;
+    font-size: 1.1em;
     color: black;
     font-family: 'Sura', serif;
     padding: 0 1.5em;
+    width: 90vw;
   }
 
 .Adds {
@@ -193,12 +194,17 @@ a {
 
 .name a,
 .main-nav a {
+  display: flex;
+  flex-direction: column;
   text-align: center;
-  display: block;
   padding: 10px 15px;
   color: red;
   text-transform: uppercase;
 }
+
+.name a {
+  display: block;
+  }
 
 .name a:hover,
 .main-nav a:hover {
@@ -213,7 +219,11 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: red;
+    background-color: white;
+}
+
+li {
+    float: left;
 }
 
 li a, {
@@ -224,7 +234,7 @@ li a, {
     text-decoration: none;
 }
 
-.dropdown {
+.drowdown {
   text-align: center;
 }
 
@@ -238,6 +248,11 @@ li a, {
   color: white;
 }
 
+button {
+  display: flex;
+  justify-content: center;
+}
+
 li a:hover, .dropdown:hover .dropbtn {
     background-color: red;
 }
@@ -248,26 +263,27 @@ li.dropdown {
 
 .dropdown-content {
     display: none;
-    position: relative;
+    position: absolute;
     background-color: white;
     min-width: 100px;
     z-index: 1;
-}
+    }
 
 .dropdown-content a {
+  background-color: white;
     color: black;
     padding: 8px 10px;
     text-decoration: none;
-    display: block;
+    display: flex;
     text-align: right ;
     font-size: 1.5em;
     margin: 0 auto;
-    width: 225px;
+    min-width: 80px;
 }
 
 .dropdown-content a:hover {
   background-color: black;
-  color: white;
+  color: red;
   text-decoration: none;
 }
 
@@ -281,16 +297,8 @@ li.dropdown {
   .name,
   .main-nav {
     display: flex;
-  }
-
-  .main-nav {
     flex-direction: column;
     align-items: center;
-  }
-
-  .plain {
-    text-align: left;
-    margin-left: 18px;
   }
 }
 
@@ -298,20 +306,6 @@ li.dropdown {
   .main-header {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-  }
-
-  .main-nav {
-    flex-direction: row;
-    align-items: center;
-  }
-
-  .plain {
-    text-align: left;
-    margin-left: -10px;
-  }
-
-  .dropdown-content {
-    position: absolute;
+    align-items: flex-end;
   }
 }
