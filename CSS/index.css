@@ -40,9 +40,11 @@ body {
   }
 
 .banner {
+    position: relative;
+    left: 0; right:0;
     max-height: 200px;
-    width: 50%;
-    margin-top: 20px;
+    width: 69vw;
+    margin: 20px auto;
   }
 
 .BTFlogo {
@@ -307,5 +309,13 @@ li.dropdown {
     display: flex;
     flex-direction: row;
     align-items: flex-end;
+  }
+
+  .banner {
+    width: 60vw;
+  }
+
+  .intro-text {
+    font-size: 1.3em;
   }
 }
