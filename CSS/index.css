@@ -105,25 +105,53 @@ body {
   }
 
   .artmuseum {
-    display: flex;
+    display: block;
+    perspective: 500px;
+    position: relative;
   }
 
-  .art {
-    width: 30%;
+  .photo-cube {
+    transition: transform 2.5s ease-in-out;
+    width: 300px;
+    height: 300px;
+    transform-style: preserve-3d;
+    position: absolute;
     margin: 0 auto;
-    height: 250px;
-    border: 10px 0;
   }
 
-  .museumtwo {
-    display: flex;
-  }
-
-  .arttwo {
-    width: 45%;
+  .photo-cube img {
+    width: 100%;
+    height: 100%;
+    display:block;
+    position: absolute;
+    backface-visibility: hidden;
     margin: 0 auto;
-    height: 250px;
-    border: 10px 0;
+  }
+
+  .photo-cube:hover {
+    transform: rotateY(-270deg);
+  }
+
+  .front {
+    transform: translateZ(150px);
+  }
+
+  .back {
+    transform: translateZ(-150px) rotateY(270deg);
+    transform-origin: center left;
+  }
+
+  .left {
+    transform: rotateY(-270deg) translateZ(150px);
+  }
+
+  .right {
+    transform: translateZ(-150px) rotateY(-180deg);
+  }
+
+  .artbg {
+    width: 100%;
+    height: 500px;
   }
 
 /* text styling */
