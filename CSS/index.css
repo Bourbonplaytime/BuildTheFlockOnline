@@ -116,7 +116,6 @@ body {
     height: 300px;
     transform-style: preserve-3d;
     position: absolute;
-    margin: 0 auto;
   }
 
   .photo-cube img {
@@ -125,7 +124,7 @@ body {
     display:block;
     position: absolute;
     backface-visibility: hidden;
-    margin: 0 auto;
+    margin: 100px 200px;
   }
 
   .photo-cube:hover {
