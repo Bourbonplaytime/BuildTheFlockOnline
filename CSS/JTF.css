@@ -1,0 +1,248 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* image styling */
+
+.banner {
+  position: relative;
+  left: 0; right:0;
+  max-height: 200px;
+  width: 69vw;
+  margin: 20px auto;
+}
+
+.artmuseum {
+  display: block;
+  perspective: 500px;
+  position: relative;
+}
+
+.photo-cube {
+  transition: transform 2.5s ease-in-out;
+  width: 200px;
+  height: 200px;
+  transform-style: preserve-3d;
+  position: absolute;
+}
+
+.photo-cube img {
+  width: 100%;
+  height: 100%;
+  display:block;
+  position: absolute;
+  backface-visibility: hidden;
+  margin: 100px 100px;
+}
+
+.photo-cube:hover {
+  transform: rotateY(-270deg);
+}
+
+.front {
+  transform: translateZ(100px);
+}
+
+.back {
+  transform: translateZ(-100px) rotateY(270deg);
+  transform-origin: center left;
+}
+
+.left {
+  transform: rotateY(-270deg) translateZ(100px);
+}
+
+.right {
+  transform: translateZ(-100px) rotateY(-180deg);
+}
+
+.artbg {
+  width: 100%;
+  height: 500px;
+}
+
+/* text styling */
+
+.headings-bottom {
+  padding-bottom: 10px;
+  text-transform: uppercase;
+  color: black;
+  }
+
+.headings {
+  margin-bottom: 20px;
+  font-family: 'Holtwood One SC', serif;
+  font-size: 3em;
+  padding: 0 1.5em;
+  color: white;
+}
+
+.intro-text {
+  font-size: 1.1em;
+  color: black;
+  font-family: 'Sura', serif;
+  padding: 0 1.5em;
+  width: 90vw;
+}
+
+li {
+  display: block;
+  color: red;
+}
+
+/* footer styling */
+
+footer {
+  bottom: 0;
+  background-color: black;
+  width: 100%;
+}
+
+.footer-text {
+  color: red;
+  font-size: 1.2em;
+}
+
+/* header styling */
+
+header {
+  background-color: black;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.name a,
+.main-nav a {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 10px 15px;
+  color: red;
+  text-transform: uppercase;
+}
+
+.name a {
+  display: block;
+  }
+
+.name a:hover,
+.main-nav a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+/* dropdown menu */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: left;
+}
+
+li a, {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.drowdown {
+  text-align: center;
+}
+
+.dropbtn {
+  margin: 0 auto;
+  background-color: black;
+  padding: 10px 50px;
+  border-style: none;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  color: white;
+}
+
+button {
+  display: flex;
+  justify-content: center;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 100px;
+    z-index: 1;
+    }
+
+.dropdown-content a {
+  background-color: white;
+    color: black;
+    padding: 8px 10px;
+    text-decoration: none;
+    display: flex;
+    text-align: right ;
+    font-size: 1.5em;
+    margin: 0 auto;
+    min-width: 80px;
+}
+
+.dropdown-content a:hover {
+  background-color: black;
+  color: red;
+  text-decoration: none;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* media queries */
+
+@media (min-width: 768px) {
+  .name,
+  .main-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (min-width: 992px) {
+  .main-header {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+  }
+
+  .banner {
+    width: 60vw;
+  }
+
+  .intro-text {
+    font-size: 1.3em;
+  }
+}
