@@ -3,7 +3,7 @@
 body {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 100%;
 }
 
 .plain {
@@ -172,8 +172,6 @@ ul {
 
  footer {
    background-color: black;
-   bottom: 0;
-   position: fixed;
  }
 
  .footer-text {
