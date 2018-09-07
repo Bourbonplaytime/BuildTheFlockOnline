@@ -92,10 +92,22 @@ li {
   color: red;
 }
 
+.explain-cube {
+  background-color: black;
+  height: 25 px;
+  width: 100%;
+}
+
+.cube-text {
+  color: red;
+  font-size: 1.2em;
+}
+
 /* footer styling */
 
 footer {
   bottom: 0;
+  position: fixed;
   background-color: black;
   width: 100%;
 }
@@ -245,4 +257,9 @@ li.dropdown {
   .intro-text {
     font-size: 1.3em;
   }
+
+  .photo-cube {
+    margin: 50px 300px;
+  }
+
 }
