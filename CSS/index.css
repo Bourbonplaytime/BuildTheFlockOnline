@@ -351,13 +351,23 @@ button {
 /* media queries */
 
 @media (min-width: 768px) {
-  .name,
-  .main-nav {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.name,
+.main-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   }
 }
+
+.countdown-title {
+  font-size: 30px;
+}
+
+.cd-item {
+  font-size: 15px;
+}
+
+
 
 @media (min-width: 992px) {
   .main-header {
