@@ -1,41 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <link rel="stylesheet" type="text/css" href="CSS/Bannerhavers.css">
-    <link rel="stylesheet" type="text/css" href="CSS/normalize.css">
-    <link href="https://fonts.googleapis.com/css?family=Holtwood+One+SC" rel="stylesheet">
-     <title>#BTF Adds: Trainhorn</title>
-     <meta charset="utf-8">
-     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-
-<!-- jQuery -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  </head>
-
-  <body>
-    <header class="main-header">
-      <h2 class="name main-nav"><a href="index.html">Build The Flock #btf</a></h2>
-      <h3 class="name main-nav"><a href="TipsNTricks.html">Tips</h3>
-      <h3 class="main-nav"><A href="JoinTheFlock.html">Join The Flock!</h3>
-      <h3 class="main-nav"><a href="BTFONews.html">News</a></h3>
-      <h3 class="main-nav"><a href="http://buildtheflock.x10host.com/">Forums</a></h3>
-      <h3 class="main-nav"><a href="Contact.html">Contact</a></h3>
-      <div class="dropdown">
-        <button class="dropbtn">Add Pages:</button>
-        <div class="dropdown-content">
-          <a href="Bannerhavers.html" target="_blank">Banner Havers</a>
-          <a href="Lsup.html" target="_blank">L's Up</a>
-          <a href="#" target="_blank">Trainhorn</a>
-          <a href="Birdswithteeth.html" target="_blank">Birds With Teeth</a>
-          <a href="Sep_Hatchlings.html" target="_blank">September Hatchlings</a>
-          <a href="Oct_Hatchlings.html" target="_blank">October Hatchlings</a>
-          <a href="Nov_Hatchlings.html" target="_blank">November Hatchlings</a>
-        </div>
-      </div>
-    </header>
+<?php include("PHP_Includes/Addsheader.php") ?>
 
 
     <div class="header bg-danger" >
@@ -306,11 +271,8 @@
 
   </div>
 
-    <footer class="footer">
-      <div class="footer-text">
-        <p class="text-center"> Site design by Matt Harvey aka <a href="https://twitter.com/coachbourbonusa?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">@coachbourbonusa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> all artwork on this page by <a href="https://twitter.com/redreign502?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">@redreign502</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-      </div>
-    </footer>
+<?php include("PHP_Includes/Footer.php") ?>
+
     <script src="Trainhorn.js"></script>
   </body>
   </html>
