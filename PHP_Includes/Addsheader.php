@@ -19,7 +19,7 @@
     <h3 class="name main-nav"><a href="TipsNTricks.php">Tips</h3>
     <h3 class="main-nav"><A href="JoinTheFlock.php">Join The Flock!</h3>
     <h3 class="main-nav"><a href="BTFONews.php">News</a></h3>
-    <h3 class="main-nav"><a href="http://buildtheflock.x10host.com/">Forums</a></h3>
+    <!-- <h3 class="main-nav"><a href="http://buildtheflock.x10host.com/">Forums</a></h3> -->
     <h3 class="main-nav"><a href="Contact.php">Contact</a></h3>
     <div class="dropdown">
       <button class="dropbtn">Add Pages:</button>

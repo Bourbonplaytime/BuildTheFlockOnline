@@ -210,7 +210,7 @@
 
         <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/AdamMonroe77" target="_blank"><img src="http://avatars.io/twitter/AdamMonroe77"></a>
 
-        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/Chadinthe502" target="_blank"><img src="http://avatars.io/twitter/Chadinthe502"></a>
+        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/Chadinjax" target="_blank"><img src="http://avatars.io/twitter/Chadinjax"></a>
 
       </div>
 
