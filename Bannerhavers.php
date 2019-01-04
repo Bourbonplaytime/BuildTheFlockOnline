@@ -277,7 +277,7 @@
 
         <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/Samboni_Machine" target="_blank"><img src="http://avatars.io/twitter/Samboni_Machine"></a>
 
-        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/SunshineNashTn" target="_blank"><img src="http://avatars.io/twitter/SunshineNashTn"></a>
+        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/villeinmyveins" target="_blank"><img src="http://avatars.io/twitter/villeinmyveins"></a>
 
         <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/Villesportslaw" target="_blank"><img src="http://avatars.io/twitter/Villesportslaw"></a>
 

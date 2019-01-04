@@ -243,7 +243,7 @@
 
             <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/todd_hill" target="_blank"><img src="https://avatars.io/twitter/todd_hill"></a>
 
-            <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/MarthaMoffett" target="_blank"><img src="http://avatars.io/twitter/MarthaMoffett"></a>
+            <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/andrewskaggs18" target="_blank"><img src="http://avatars.io/twitter/andrewskaggs18"></a>
 
             <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/UofLCardsfan88" target="_blank"><img src="http://avatars.io/twitter/UofLCardsfan88"></a>
 
