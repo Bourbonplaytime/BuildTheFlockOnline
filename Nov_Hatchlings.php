@@ -86,7 +86,7 @@
 
           <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/kenkwillinger" target="_blank"><img src="http://avatars.io/twitter/kenkwillinger"></a>
 
-          <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/BrunchCheesy" target="_blank"><img src="http://avatars.io/twitter/BrunchCheesy"></a>
+          <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/Woodywtmjr" target="_blank"><img src="http://avatars.io/twitter/Woodywtmjr"></a>
 
           <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/dmb311981" target="_blank"><img src="http://avatars.io/twitter/dmb311981"></a>
 
@@ -172,11 +172,11 @@
 
           <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/cdevon80" target="_blank"><img src="http://avatars.io/twitter/cdevon80"></a>
 
-          <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/Woodywtmjr" target="_blank"><img src="http://avatars.io/twitter/Woodywtmjr"></a>
+          <!-- <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/Woodywtmjr" target="_blank"><img src="http://avatars.io/twitter/Woodywtmjr"></a>
 
         </div>
 
-        <!-- <div class="row adds-line-1">
+        <div class="row adds-line-1">
 
             <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/john_stigall" target="_blank"><img src="https://avatars.io/twitter/john_stigall"></a>
 

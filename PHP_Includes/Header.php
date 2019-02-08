@@ -32,6 +32,7 @@
           <a href="Oct_Hatchlings.php" target="_blank">October Hatchlings</a>
           <a href="Nov_Hatchlings.php" target="_blank">November Hatchlings</a>
           <a href="Dec_Hatchlings.php" target="_blank">December Hatchlings</a>
+          <a href="Jan_Hatchlings.php" target="_blank">January Hatchlings</a>
         </div>
       </div>
    </header>

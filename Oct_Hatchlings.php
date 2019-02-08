@@ -53,7 +53,7 @@
 
             <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/ebok22ebok" target="_blank"><img src="http://avatars.io/twitter/ebok22ebok"></a>
 
-            <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/DeroyShelia" target="_blank"><img src="http://avatars.io/twitter/DeroyShelia"></a>
+            <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/Sheliacardfan" target="_blank"><img src="http://avatars.io/twitter/Sheliacardfan"></a>
 
             <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/barrelsports" target="_blank"><img src="http://avatars.io/twitter/BarrelSports"></a>
 
@@ -115,7 +115,7 @@
 
           <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/BryceHagman" target="_blank"><img src="http://avatars.io/twitter/BryceHagman"></a>
 
-          <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/breakingnews502" target="_blank"><img src="http://avatars.io/twitter/breakingnews502"></a>
+          <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/louky_anon" target="_blank"><img src="http://avatars.io/twitter/louky_anon"></a>
 
           <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/TheVille_is_ill" target="_blank"><img src="http://avatars.io/twitter/TheVille_is_ill"></a>
 
@@ -265,9 +265,9 @@
 
             <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/Specter_Smit" target="_blank"><img src="http://avatars.io/twitter/Specter_Smit"></a>
 
-            <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/louky_anon" target="_blank"><img src="http://avatars.io/twitter/louky_anon"></a>
+            <!-- <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/louky_anon" target="_blank"><img src="http://avatars.io/twitter/louky_anon"></a>
 
-            <!-- <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/RodneySeeking" target="_blank"><img src="http://avatars.io/twitter/RodneySeeking"></a>
+            <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/RodneySeeking" target="_blank"><img src="http://avatars.io/twitter/RodneySeeking"></a>
 
           </div>
 

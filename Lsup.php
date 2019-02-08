@@ -80,7 +80,7 @@
       <div class="row adds-line-1">
         <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/biomanJD" target="_blank"><img class="enlarge" src="https://avatars.io/twitter/biomanJD"></a>
 
-        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/TMan_in_TN" target="_blank"><img class="enlarge" src="https://avatars.io/twitter/TMan_in_TN"></a>
+        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/RetiredTN_TMan" target="_blank"><img class="enlarge" src="https://avatars.io/twitter/RetiredTN_TMan"></a>
 
         <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/nickeverett01" target="_blank"><img class="enlarge" src="http://avatars.io/twitter/nickeverett01"></a>
 
@@ -216,7 +216,7 @@
 
         <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/hiserman79" target="_blank"><img src="http://avatars.io/twitter/hiserman79"></a>
 
-        <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/Iamthabest_1" target="_blank"><img src="http://avatars.io/twitter/Iamthabest_1"></a>
+        <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/sonofsamjams" target="_blank"><img src="http://avatars.io/twitter/sonofsamjams"></a>
 
         <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/Twommy" target="_blank"><img src="http://avatars.io/twitter/Twommy"></a>
 
@@ -264,7 +264,7 @@
 
         <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/The_Villenut" target="_blank"><img src="http://avatars.io/twitter/The_Villenut"></a>
 
-        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/ripjason0913" target="_blank"><img src="http://avatars.io/twitter/ripjason0913"></a>
+        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/troublenthe502" target="_blank"><img src="http://avatars.io/twitter/troublenthe502"></a>
 
         <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/srenfro3" target="_blank"><img src="http://avatars.io/twitter/srenfro3"></a>
 

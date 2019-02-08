@@ -170,7 +170,7 @@
 
           <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/ttunes58_todd" target="_blank"><img src="http://avatars.io/twitter/ttunes58_todd"></a>
 
-          <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/bryancottrell70" target="_blank"><img src="http://avatars.io/twitter/bryancottrell70"></a>
+          <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/dmilby" target="_blank"><img src="http://avatars.io/twitter/dmilby"></a>
 
           <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/mremaly" target="_blank"><img src="http://avatars.io/twitter/mremaly"></a>
 
@@ -184,7 +184,7 @@
 
             <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/TitoJamesIII" target="_blank"><img src="http://avatars.io/twitter/TitoJamesIII"></a>
 
-            <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/GoCards_L1C4" target="_blank"><img src="http://avatars.io/twitter/GoCards_L1C4"></a>
+            <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/MySpcialPurpose" target="_blank"><img src="http://avatars.io/twitter/MySpcialPurpose"></a>
 
             <a class="col-4 col-md-2 bot-margin enlarsdddddddddge" href="https://twitter.com/itsricklol" target="_blank"><img src="http://avatars.io/twitter/itsricklol"></a>
 
@@ -252,7 +252,7 @@
 
             <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/ibhammy1421" target="_blank"><img src="http://avatars.io/twitter/ibhammy1421"></a>
 
-            <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/MySpcialPurpose" target="_blank"><img src="http://avatars.io/twitter/MySpcialPurpose"></a>
+            <!-- <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/MySpcialPurpose" target="_blank"><img src="http://avatars.io/twitter/MySpcialPurpose"></a>
 
           </div>
 
@@ -260,7 +260,7 @@
 
             <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/dmilby" target="_blank"><img src="http://avatars.io/twitter/dmilby"></a>
 
-            <!-- <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/stevenmudd" target="_blank"><img src="http://avatars.io/twitter/stevenmudd"></a>
+            <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/stevenmudd" target="_blank"><img src="http://avatars.io/twitter/stevenmudd"></a>
 
             <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/StutteringJimmy" target="_blank"><img src="http://avatars.io/twitter/StutteringJimmy"></a>
 
