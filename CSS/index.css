@@ -186,6 +186,13 @@ body {
     width: 90vw;
   }
 
+  .timeline {
+      display: block;
+      margin: 0 auto;
+      width: 75%;
+      height: 500px;
+    }
+
 .Adds {
   background-color: black;
   text-align: center;

@@ -12,12 +12,12 @@
       </div>
 
       <div>
-        <p class="intro-text text-center">The time is approaching. Below is a countdown to this year's awaited rivalry basketball game against Cal LLC.</p>
+        <p class="intro-text text-center">The time is approaching. Below is a countdown to this year's regular season U of L baseball schedule.</p>
 
     <div class="countdown">
         <table class="center">
           <tr>
-            <td colspan="4" class="countdown-title" style="text-align:center">Countdown to U of L vs UK</td>
+            <td colspan="4" class="countdown-title" style="text-align:center">Countdown to U of L baseball season opener.</td>
           </tr>
           <tr>
             <td id="days" class="cd-item"></td>
@@ -37,7 +37,7 @@
 
         function countdown(){
           var now = new Date();
-          var eventDate = new Date(2018, 11, 29, 14)
+          var eventDate = new Date(2019, 01, 15, 18)
 
           var currentTime = now.getTime();
           var eventTime = eventDate.getTime();
@@ -73,7 +73,11 @@
       <div class="mid-section">
         <div class="BTFlogo2transform">
           <img class="BTFlogo2" src="Images/FlyingWithLogo.jpg" alt="grey background flying bird logo">
-          <p class="intro-text">Greetings Cards fans! It's long overdue that I updated this section of the website. Since launch shortly before our kickoff game vs Alabama I have been periodically adding on to the site as I've had time. We have seen the launch of a forum, monthly add pages, and cool features and styling. I should be seeing a lot more free time between 11/16 and the new year and I'd like to address account functionality over that time frame. I had mentioned I would like to create an environment where people could create an account to link other social media or any other online infrastructure you may want to represent yourself or promote your own personal ventures. So that is the goal between now and 2019. I hope everyone is as excited for basketball season as I am and as always Build The Flock #BTF.</p>
+          <p class="intro-text">Greetings Cards fans! I finally got around to doing an update of the site in 2019. For those who may not know I built a twitter list that has been very popular with #BTF participants which can be found <a href="https://twitter.com/BuildTheFlockUL/lists/btf" target="_blank"> here.</a> This list includes a members section where you can see who does and doesn't follow you from #BTF and allows you to one click add straight from the list. </p>
+
+          <!-- <p class="intro-text"> <a class="twitter-timeline tw-align-center" data-width="75%" data-height="500" href="https://twitter.com/BuildTheFlockUL/lists/btf">A Twitter List by BuildTheFlockUL</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </p> -->
+
+          <p class="intro-text"> I'm also in the planning stages of creating a #BTF presence for Instagram. It's always been part of my vision to expand this project beyond twitter and into other social media realms. It looks like Instagram may be next. I'm still ironing out how this will all work but it's my goal to launch some form of campaign in late February or early March so keep your eyes peeled and if you want to follow and be followed by more Cards Fans on Instagram feel free to let me know. </p>        
 
           <p class="intro-text">I want this to be a place where Louisville fans can share their passion, pride, and compassion. I look at my hand written notes where I've collected hundreds of twitter handles over a series of years and wonder what I'm doing? Then I think about the people I've met and what they've meant to me and it all seems worth it. So let's get together at tailgates and bars as we celebrate what brought us all together. Let's use the internet as a tool to let the country and the world know U of L and it's fanbase are as passionate as any in the country. Go Cards and let's get to building the flock.</p>
         </div>
