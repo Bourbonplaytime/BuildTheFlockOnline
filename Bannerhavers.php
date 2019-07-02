@@ -24,7 +24,7 @@
 
           <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/_I_CARD_HARD" target="_blank"><img src="http://avatars.io/twitter/_I_CARD_HARD"></a>
 
-          <a class="col-4 col-md-2 bot-margin enlarsdddddddddge" href="https://twitter.com/jclindeman" target="_blank"><img src="http://avatars.io/twitter/jclindeman"></a>
+          <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/jclindeman" target="_blank"><img src="http://avatars.io/twitter/jclindeman"></a>
 
           <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/nascarfans18" target="_blank"><img src="http://avatars.io/twitter/nascarfans18"></a>
 
