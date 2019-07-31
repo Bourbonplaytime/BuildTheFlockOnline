@@ -26,7 +26,7 @@
 
             <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/TrainHornTom" target="_blank"><img src="http://avatars.io/twitter/TrainHornTom"></a>
 
-            <a class="col-4 col-md-2 bot-margin enlarsdddddddddge" href="https://twitter.com/Covert_Cardinal" target="_blank"><img src="http://avatars.io/twitter/Covert_Cardinal"></a>
+            <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/Covert_Cardinal" target="_blank"><img src="http://avatars.io/twitter/Covert_Cardinal"></a>
 
             <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/Dustin060415" target="_blank"><img src="http://avatars.io/twitter/Dustin060415"></a>
 
@@ -66,7 +66,7 @@
 
           <div class="row adds-line4">
 
-            <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/Satterville" target="_blank"><img src="http://avatars.io/twitter/Satterville"></a>
+            <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/sturoomoo" target="_blank"><img src="http://avatars.io/twitter/sturoomoo"></a>
 
             <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/pha_card" target="_blank"><img src="http://avatars.io/twitter/pha_card"></a>
 
@@ -134,7 +134,7 @@
 
           <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/TheHoff53" target="_blank"><img src="http://avatars.io/twitter/TheHoff53"></a>
 
-          <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/sturoomoo" target="_blank"><img src="http://avatars.io/twitter/sturoomoo"></a>
+          <!-- <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/sturoomoo" target="_blank"><img src="http://avatars.io/twitter/sturoomoo"></a>
 
           <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/Marnieks1375" target="_blank"><img src="http://avatars.io/twitter/Marnieks1375"></a>
 
@@ -188,7 +188,7 @@
 
             <a class="col-4 col-md-2 bot-margin enlarsdddddddddge" href="https://twitter.com/CardinalBig" target="_blank"><img src="http://avatars.io/twitter/CardinalBig"></a>
 
-            <!-- <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/MrsKate1428" target="_blank"><img src="http://avatars.io/twitter/MrsKate1428"></a>
+             <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/MrsKate1428" target="_blank"><img src="http://avatars.io/twitter/MrsKate1428"></a>
 
           </div>
 

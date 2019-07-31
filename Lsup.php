@@ -28,11 +28,11 @@
         </div>
 
         <div class="row adds-line2">
-          <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/CARDSALLDAY26" target="_blank"><img src="http://avatars.io/twitter/CARDSALLDAY26"></a>
+          <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/bobbyboy57" target="_blank"><img src="http://avatars.io/twitter/bobbyboy57"></a>
 
           <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/bigmhallmark" target="_blank"><img src="http://avatars.io/twitter/bigmhallmark"></a>
 
-          <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/JSchneider1283" target="_blank"><img src="http://avatars.io/twitter/JSchneider1283"></a>
+          <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/Eee_Bee" target="_blank"><img src="http://avatars.io/twitter/Eee_Bee"></a>
 
           <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/TerryEmbry14" target="_blank"><img src="http://avatars.io/twitter/TerryEmbry14"></a>
 
@@ -270,7 +270,7 @@
 
         <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/kelty_dale" target="_blank"><img src="http://avatars.io/twitter/kelty_dale"></a>
 
-        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/THEWildEagle38" target="_blank"><img src="http://avatars.io/twitter/THEWildEagle38"></a>
+        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/redandblac4life" target="_blank"><img src="http://avatars.io/twitter/redandblac4life"></a>
 
       </div>
 

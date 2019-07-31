@@ -120,13 +120,13 @@
 
         <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/4715092117" target="_blank"><img src="http://avatars.io/twitter/4715092117"></a>
 
-        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/L1C4Nation" target="_blank"><img src="http://avatars.io/twitter/L1C4Nation"></a>
+        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/CardinalBig" target="_blank"><img src="http://avatars.io/twitter/CardinalBig"></a>
 
         <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/Don_Guala66" target="_blank"><img src="http://avatars.io/twitter/Don_Guala66"></a>
 
         <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/Talley58_" target="_blank"><img src="http://avatars.io/twitter/Talley58_"></a>
 
-        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/Jason_Barrett09" target="_blank"><img src="http://avatars.io/twitter/Jason_Barrett09"></a>
+        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/leighb_b" target="_blank"><img src="http://avatars.io/twitter/leighb_b"></a>
 
       </div>
 
@@ -194,7 +194,7 @@
 
         <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/AliciaMerritt15" target="_blank"><img src="http://avatars.io/twitter/AliciaMerritt15"></a>
 
-        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/ATXCardsFan" target="_blank"><img src="http://avatars.io/twitter/ATXCardsFan"></a>
+        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/Hagan_Nation88" target="_blank"><img src="http://avatars.io/twitter/Hagan_Nation88"></a>
 
       </div>
 
@@ -225,7 +225,7 @@
 
         <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/wes_sandlin" target="_blank"><img src="http://avatars.io/twitter/wes_sandlin"></a>
 
-        <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/BDKEV1988" target="_blank"><img src="http://avatars.io/twitter/BDKEV1988"></a>
+        <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/L1C4UL" target="_blank"><img src="http://avatars.io/twitter/L1C4UL"></a>
 
         <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/auberry89" target="_blank"><img src="http://avatars.io/twitter/auberry89"></a>
 

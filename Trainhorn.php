@@ -25,7 +25,7 @@
 
           <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/mdb502" target="_blank"><img src="http://avatars.io/twitter/mdb502"></a>
 
-          <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/shannanigans815" target="_blank"><img src="http://avatars.io/twitter/shannanigans815"></a>
+          <a class="col-4 col-md-2 bot-margin enlarge" href="https://twitter.com/MurphysMaddness" target="_blank"><img src="http://avatars.io/twitter/MurphysMaddness"></a>
         </div>
 
         <div class="row adds-line2">
@@ -69,7 +69,7 @@
 
           <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/kharv502" target="_blank"><img src="http://avatars.io/twitter/kharv502"></a>
 
-          <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/julesmaysmith" target="_blank"><img src="http://avatars.io/twitter/julesmaysmith"></a>
+          <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/RonnieGhent" target="_blank"><img src="http://avatars.io/twitter/RonnieGhent"></a>
 
           <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/JacobLane_BRL" target="_blank"><img src="http://avatars.io/twitter/JacobLane_BRL"></a>
 
@@ -149,7 +149,7 @@
 
         <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/HeyDorzay" target="_blank"><img class="enlarge" src="http://avatars.io/twitter/HeyDorzay"></a>
 
-        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/Austin4serious" target="_blank"><img src="http://avatars.io/twitter/Austin4serious"></a>
+        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/MattyMetsFan1" target="_blank"><img src="http://avatars.io/twitter/MattyMetsFan1"></a>
 
         <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/K_Geezy74" target="_blank"><img src="http://avatars.io/twitter/K_Geezy74"></a>
 
@@ -183,7 +183,7 @@
 
         <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/UofLfan_4life" target="_blank"><img src="http://avatars.io/twitter/UofLfan_4life"></a>
 
-        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/dcolesny10" target="_blank"><img src="http://avatars.io/twitter/dcolesny10"></a>
+        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/RogerDCochran" target="_blank"><img src="http://avatars.io/twitter/RogerDCochran"></a>
 
       </div>
 
@@ -255,7 +255,7 @@
 
         <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/PlanetOfTheCard" target="_blank"><img src="http://avatars.io/twitter/PlanetOfTheCard"></a>
 
-        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/Lvilleslug83" target="_blank"><img src="http://avatars.io/twitter/Lvilleslug83"></a>
+        <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/nbrown216" target="_blank"><img src="http://avatars.io/twitter/nbrown216"></a>
 
         <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/ryson" target="_blank"><img src="http://avatars.io/twitter/ryson"></a>
 

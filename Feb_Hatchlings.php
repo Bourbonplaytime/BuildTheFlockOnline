@@ -72,7 +72,7 @@
 
             <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/TomFitzgeraldSr" target="_blank"><img src="http://avatars.io/twitter/TomFitzgeraldSr"></a>
 
-            <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/LouisvilleRN85" target="_blank"><img src="http://avatars.io/twitter/LouisvilleRN85"></a>
+            <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/dragon8569" target="_blank"><img src="http://avatars.io/twitter/dragon8569"></a>
 
             <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/kaufman_krystal" target="_blank"><img src="http://avatars.io/twitter/kaufman_krystal"></a>
 
@@ -104,15 +104,15 @@
 
           <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/jdragoo13" target="_blank"><img src="http://avatars.io/twitter/jdragoo13"></a>
 
-          <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/Italiancreme24" target="_blank"><img src="http://avatars.io/twitter/Italiancreme24"></a>
-
           <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/CAMx502xS" target="_blank"><img src="http://avatars.io/twitter/CAMx502xS"></a>
+
+          <!-- <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/CAMx502xS" target="_blank"><img src="http://avatars.io/twitter/CAMx502xS"></a>
 
           <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/dragon8569" target="_blank"><img src="http://avatars.io/twitter/dragon8569"></a>
 
         </div>
 
-        <!-- <div class="row adds-line3">
+        <div class="row adds-line3">
 
           <a class="col-4 col-md-2 bot-margin" href="https://twitter.com/mabrent33" target="_blank"><img src="http://avatars.io/twitter/mabrent33"></a>
 
