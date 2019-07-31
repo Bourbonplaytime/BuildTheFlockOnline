@@ -12,7 +12,7 @@
       </div>
 
       <div class="mid-section">
-        <p class="intro-text">#BTF was created and designed by...well...it me Matt Harvey aka <a href="https://twitter.com/coachbourbonusa?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">@CoachBourbonUSA</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> on the tweetarz. I'm always accepting thoughts, suggestions, and feedback (good or bad.) Twitter is probably the best place to send input to me, but should you want to e-mail me I set up an e-mail for the project. You can write me at <a href="mailto:buildtheflock502@gmail.com"> buildtheflock502@gmail.com.</a> In the name of transparency I'll even leak a way to reach my personal cell 502-509-5612. I do ask you attempt other means to reach out to me before you go straight into dialing me up.</p>
+        <p class="intro-text">#BTF was created and designed by...well...it me Matt Harvey aka <a href="https://twitter.com/coachbourbonusa?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">@CoachBourbonUSA</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> on the tweetarz. I'm always accepting thoughts, suggestions, and feedback (good or bad.) Twitter is probably the best place to send input to me, but should you want to e-mail me I set up an e-mail for the project. You can write me at <a href="mailto:buildtheflock502@gmail.com"> buildtheflock502@gmail.com.</a></p>
 
         <img class="white-in-red" src="Images/WhiteinRedLogo.jpg" alt="white build the flock logo wrapped in red">
 
